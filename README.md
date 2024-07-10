@@ -1,6 +1,6 @@
 # RPInfo
 
-[![My Skills](https://skillicons.dev/icons?i=py,sqlite,discord,bots,github,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sqlite,discord,bots,github,pycharm&theme=light)](https://skillicons.dev)
 
 A *Discord* bot in create for an old *Warriors Book*, RP server (French server)
 
